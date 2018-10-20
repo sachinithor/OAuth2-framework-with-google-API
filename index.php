@@ -3,7 +3,7 @@
 ?>
 
 <!-- Signup Form -->
-<form id="signup-form" method="post" action="#">
+<form method="post" action="callback.php">
 	<input type="submit" value="UPLOAD" />
 </form>
 
